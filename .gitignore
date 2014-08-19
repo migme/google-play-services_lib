@@ -1,0 +1,22 @@
+# Custom ignores
+build/
+bin/
+gen/
+project.properties
+
+# Eclipse
+.classpath
+.project
+project.properties
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+target/
